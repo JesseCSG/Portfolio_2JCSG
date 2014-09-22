@@ -1,6 +1,6 @@
 body{
-    background-image: url(http://www.99hdwallpaper.com/blue/wallpapers/beautiful-blue-background.jpg);
-    color: whitesmoke
+    background-image: url(http://associationmarketer.com/wp-content/uploads/2014/02/blue-abstract-background.jpg);
+    color: whitesmoke;
 }
 
 div{
@@ -8,12 +8,12 @@ div{
 }
 
 .container{
-    border-color: aqua;
     padding: 30px;
+    border-style: none;
 }
 
 .list-group-item{
-    border: 0;
+    border-color: darkslateblue;
     margin-top: 35px;
     margin-bottom: 35px;
 }

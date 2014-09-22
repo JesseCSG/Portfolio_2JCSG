@@ -1,14 +1,19 @@
+body{
+    background-image: url(http://launchpadmediagroup.com/wp-content/uploads/2013/05/blue2.jpg);
+    color: whitesmoke;
+}
+
 div{
     border-style: groove;
 }
 
 .container{
-    border-color: aqua;
     padding: 30px;
+    border-style: none;
 }
 
 .list-group-item{
-    border: 0;
+    border-color: darkslateblue;
     margin-top: 35px;
     margin-bottom: 35px;
 }

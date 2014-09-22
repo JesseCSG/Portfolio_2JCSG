@@ -1,5 +1,6 @@
 body{
-    /*background-image:*/
+    background-image: url(http://1.bp.blogspot.com/-DKZDpRKxg5o/TmTDPVr0y4I/AAAAAAAAAhY/duQsdLBDFyE/s1600/Website-Wallpapers-.jpg);
+    color: whitesmoke;
 }
 
 div{
@@ -7,12 +8,12 @@ div{
 }
 
 .container{
-    border-color: aqua;
     padding: 30px;
+    border-style: none;
 }
 
 .list-group-item{
-    border: 0;
+    border-color: darkslateblue;
     margin-top: 35px;
     margin-bottom: 35px;
 }
