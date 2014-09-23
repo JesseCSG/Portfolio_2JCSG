@@ -4,7 +4,7 @@ body{
 }
 
 div{
-    border-style: groove;
+    border-style: none;
 }
 
 .container{
@@ -16,6 +16,11 @@ div{
     border-color: darkslateblue;
     margin-top: 35px;
     margin-bottom: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: darkslateblue;
 }
 
 .row{
