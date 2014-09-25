@@ -7,6 +7,10 @@ div{
     border-style: none;
 }
 
+.img-responsive{
+    size: 500px;
+}
+
 .container{
     padding: 30px;
     border-style: none;
@@ -18,6 +22,7 @@ div{
 
 .list-group-item{
     border-color: darkslateblue;
+    background-color: lightblue;
     margin-top: 35px;
     margin-bottom: 35px;
 }

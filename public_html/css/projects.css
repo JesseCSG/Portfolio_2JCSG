@@ -11,9 +11,16 @@ div{
     padding: 30px;
     border-style: none;
 }
+.dropdown-menu{
+    color: slateblue;
+}
+.dropdown-toggle{
+    background-color: royalblue;
+}
 
 .list-group-item{
     border-color: darkslateblue;
+    background-color: lightblue; 
     margin-top: 35px;
     margin-bottom: 35px;
 }
