@@ -1,0 +1,18 @@
+body{
+    background-image: url(http://www.w8themes.com/wp-content/uploads/2013/11/Blue-HD-Wallpaper.jpg);
+    color: whitesmoke;
+}
+
+.panel-body{
+    background-color: slateblue;
+}
+
+.list-group-item{
+    border-color: darkslateblue;
+    background-color: lightblue;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+
