@@ -29,6 +29,11 @@ img{
     margin-bottom: 35px;
 }
 
+.panel-body {
+    background-color: slateblue;
+    color: honeydew;
+}
+
 a{
     text-decoration: none;
     color: lightsteelblue;

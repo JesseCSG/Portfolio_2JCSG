@@ -14,5 +14,9 @@ body{
     margin-bottom: 35px;
 }
 
+.carousel-inner{
+    size: 500px;
+}
+
 
 
